@@ -1,0 +1,62 @@
+.container-fluid{
+	padding: 0px;
+
+}
+
+li:hover {
+background: #ff3f40;
+-webkit-transition: background 0.3s ease-out 0.2s;
+    -moz-transition: background 0.3s ease-out 0.2s;
+    -o-transition: background 0.3s ease-out 0.2s ;
+    transition: background 0.3s ease-out 0.2s;
+
+}
+.navbar{
+	padding: 0px;
+	font-size: 2.5vh;
+}
+ H1{
+font-family:'Open Sans', sans-serif; 
+font-weight: 800;
+font-size: 6vh;
+}
+#lo{
+	width: 400px;
+z-index: 1;
+width: 7rem;
+position: absolute;
+margin-top: 4.5rem;
+margin-left: 11rem;
+}
+#lo:hover{
+	-webkit-transition: padding 0.3s ease-out 0.2s;
+    -moz-transition: padding 0.3s ease-out 0.2s;
+    -o-transition: padding 0.3s ease-out 0.2s ;
+    transition: padding 0.3s ease-out 0.2s;
+    padding: 10px;
+}
+
+#lox{
+z-index: 2;
+top: -10rem;
+width: 30rem;
+
+}
+#ole{
+	margin-top: 8rem;
+
+}
+#sas{
+	background-color: #f6f2f2;
+	padding-top:  2rem;
+	padding-bottom: 9rem;
+}
+#baton{
+	padding: 0.6rem 3rem 0.6rem 3rem;
+	font-weight: 630;
+}
+H2{
+font-family:'Open Sans', sans-serif; 
+font-weight: 700;
+font-size: 42px;
+}
